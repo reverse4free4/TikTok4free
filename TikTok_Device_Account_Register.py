@@ -28,12 +28,14 @@ import json
 import random
 
 
-host        = 'http://162.244.29.181:9137'
+host        = 'http://86.48.3.49:9137'
 country     = 'de'
 proxy       = 'username:password@host:ip'
 x_user_id   = 'x_user_id'
 
 number      = "+490000000000"
+
+code        = 0
 
 e_mail      = ""
 password    = ""
@@ -100,6 +102,32 @@ def send_sms():
         "number": number,
         "proxy": proxy,
         "country": country
+    })
+    headers = {
+        'X-User-ID': x_user_id,
+        'Content-Type': 'application/json'
+    }
+
+    response = requests.request("POST", url, headers=headers, data=payload)
+
+    print(response.text)
+
+
+def verify_code():
+    url = f"{host}/verify_code"
+
+    filename = f"{country}_devices.txt"
+    with open(filename, "r") as file:
+        random_line = random.choice(file.read().splitlines())
+
+    device = json.loads(random_line)
+
+    payload = json.dumps({
+        "device": device,
+        "number": number,
+        "proxy": proxy,
+        "country": country,
+        "code": code
     })
     headers = {
         'X-User-ID': x_user_id,
