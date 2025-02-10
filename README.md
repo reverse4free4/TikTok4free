@@ -45,7 +45,7 @@ https://rapidapi.com/reverse4free4/api/flycaptcha/
 
 Telegram: https://t.me/reverse4free <br>
 Rapidapi: https://rapidapi.com/reverse4free4/api/tiktok4free <br>
-GitHub: https://github.com/reversecoderslab/TikTok4free  <br>
+GitHub: https://github.com/reverse4free4/TikTok4free  <br>
 
 ## Release Notes: 发行说明:
 
