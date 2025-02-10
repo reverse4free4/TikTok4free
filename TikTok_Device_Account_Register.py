@@ -14,7 +14,7 @@
 # - 25,000 Requests: $600 USD
 #
 # Step 3: Confirm your transaction
-# Provide your transaction ID via Telegram: https://t.me/reversecoders
+# Provide your transaction ID via Telegram: https://t.me/reverse4free
 #
 # Step 4: Check your balance
 # Call the function: balance()
