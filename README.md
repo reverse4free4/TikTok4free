@@ -1,4 +1,4 @@
-# TikTok API - (Support: https://t.me/reversecoders)
+# TikTok API - (Support: https://t.me/reverse4free)
 Highly maintained, up-to-date and cheapest TikTok signature/encryption service, stably 24/7 support with an average of millions of calls per day.
 高度维护、最新且最便宜的 TikTok 签名/加密服务，稳定的 24/7 支持，平均每天数百万次调用。
 
@@ -39,16 +39,13 @@ Highly maintained, up-to-date and cheapest TikTok signature/encryption service, 
 
 ⭐ TikTok Captcha Solver 验证码解算器
 
-https://rapidapi.com/reversecoders/api/flycaptcha/
+https://rapidapi.com/reverse4free4/api/flycaptcha/
 
 ## Contact: 接触：
 
-Gmail: reversecoders@gmail.com <br>
-Telegram: https://t.me/reversecoders <br>
-Rapidapi: https://rapidapi.com/reversecoders/api/tiktok4free <br>
+Telegram: https://t.me/reverse4free <br>
+Rapidapi: https://rapidapi.com/reverse4free4/api/tiktok4free <br>
 GitHub: https://github.com/reversecoderslab/TikTok4free  <br>
-GitLab: https://gitlab.com/reversecoders/TikTok4free  <br>
-Web: http://tt-free.com <br>
 
 ## Release Notes: 发行说明:
 
@@ -89,7 +86,7 @@ Since March 8, 2024 we support the following TikTok versions:
 
 On RapidApi you have access to the fastest, most stable and reliable TikTok Android device registration process on the market.
 
-Access to the above-mentioned TikTok versions is only possible with an individual subscription. Please contact us on Telegram: https://t.me/reversecoders
+Access to the above-mentioned TikTok versions is only possible with an individual subscription. Please contact us on Telegram: https://t.me/reverse4free
 
 🔥重大公告🔥
 
@@ -102,7 +99,7 @@ Access to the above-mentioned TikTok versions is only possible with an individua
 
 在 RapidApi 上，您可以存取市場上最快、最穩定、最可靠的 TikTok Android 裝置註冊流程。
 
-只有單獨訂閱才能存取上述 TikTok 版本。 請透過 Telegram 與我們聯絡：https://t.me/reversecoders
+只有單獨訂閱才能存取上述 TikTok 版本。 請透過 Telegram 與我們聯絡：https://t.me/reverse4free
 
 03/04/24:
 
